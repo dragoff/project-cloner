@@ -15,13 +15,17 @@ Project cloner is a tool that helps to work with multiple Unity Editor instances
 3. Open cloned project.
 4. Run both project.
 
-### Set copy of project settings to allow changes to persistent folder path.
+### Set "copy" for Project Settings Folder to allow changes to persistent path.
 
 ![Copy](https://github.com/dragoff/project-cloner/raw/main/Images/Screenshot_2.png)
 
 ### Enable "Show project location and persistent path of original project" in settings to have easy access to folders.
 
 ![Path](https://github.com/dragoff/project-cloner/raw/main/Images/Screenshot_1.png)
+
+### Change Company Name or Product name of origin and clones easily.
+
+![Path](https://github.com/dragoff/project-cloner/raw/main/Images/Screenshot_3.png)
 
 ## Credits
 Original idea by hwaet [UnityProjectCloner](https://github.com/hwaet/UnityProjectCloner)
